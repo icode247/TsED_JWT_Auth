@@ -22,7 +22,7 @@
     "@tsed/passport": "^6.132.0",
     "@tsed/platform-cache": "^6.132.0",
     "@tsed/platform-exceptions": "^6.132.0",
-    "@tsed/platform-express": "^6.132.0",
+    "@tsed/platform-express": "^6.133.1",
     "@tsed/platform-log-middleware": "^6.132.0",
     "@tsed/platform-middlewares": "^6.132.0",
     "@tsed/platform-params": "^6.132.0",
